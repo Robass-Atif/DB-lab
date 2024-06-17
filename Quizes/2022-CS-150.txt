@@ -1,0 +1,13 @@
+Q1
+select ContactTitle,Country,Region  from Customers group by ContactTitle,Country,Region having count(*)>1;
+***
+
+
+Q2
+select   OrderID,(UnitPrice) as saleprice  from [Order Details] group by OrderID,UnitPrice having SUM(UnitPrice)>1000 ;
+***
+
+
+Q3
+select ProductName from Products where UnitsOnOrder>UnitsInStock;
+***

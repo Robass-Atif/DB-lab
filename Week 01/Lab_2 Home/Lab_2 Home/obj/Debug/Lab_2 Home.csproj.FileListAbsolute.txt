@@ -1,0 +1,10 @@
+C:\Users\DELL\Desktop\Data Base\Week 01\Lab_2 Home\Lab_2 Home\bin\Debug\Lab_2 Home.exe.config
+C:\Users\DELL\Desktop\Data Base\Week 01\Lab_2 Home\Lab_2 Home\bin\Debug\Lab_2 Home.exe
+C:\Users\DELL\Desktop\Data Base\Week 01\Lab_2 Home\Lab_2 Home\bin\Debug\Lab_2 Home.pdb
+C:\Users\DELL\Desktop\Data Base\Week 01\Lab_2 Home\Lab_2 Home\obj\Debug\Lab_2 Home.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Data Base\Week 01\Lab_2 Home\Lab_2 Home\obj\Debug\Lab_2_Home.Form1.resources
+C:\Users\DELL\Desktop\Data Base\Week 01\Lab_2 Home\Lab_2 Home\obj\Debug\Lab_2_Home.Properties.Resources.resources
+C:\Users\DELL\Desktop\Data Base\Week 01\Lab_2 Home\Lab_2 Home\obj\Debug\Lab_2 Home.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Data Base\Week 01\Lab_2 Home\Lab_2 Home\obj\Debug\Lab_2 Home.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Data Base\Week 01\Lab_2 Home\Lab_2 Home\obj\Debug\Lab_2 Home.exe
+C:\Users\DELL\Desktop\Data Base\Week 01\Lab_2 Home\Lab_2 Home\obj\Debug\Lab_2 Home.pdb

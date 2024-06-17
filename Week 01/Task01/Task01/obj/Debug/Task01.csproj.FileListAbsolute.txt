@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\Data Base\Week 01\Task01\Task01\bin\Debug\Task01.exe.config
+C:\Users\DELL\Desktop\Data Base\Week 01\Task01\Task01\bin\Debug\Task01.exe
+C:\Users\DELL\Desktop\Data Base\Week 01\Task01\Task01\bin\Debug\Task01.pdb
+C:\Users\DELL\Desktop\Data Base\Week 01\Task01\Task01\obj\Debug\Task01.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Data Base\Week 01\Task01\Task01\obj\Debug\Task01.Form1.resources
+C:\Users\DELL\Desktop\Data Base\Week 01\Task01\Task01\obj\Debug\Task01.Properties.Resources.resources
+C:\Users\DELL\Desktop\Data Base\Week 01\Task01\Task01\obj\Debug\Task01.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Data Base\Week 01\Task01\Task01\obj\Debug\Task01.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Data Base\Week 01\Task01\Task01\obj\Debug\Task01.exe
+C:\Users\DELL\Desktop\Data Base\Week 01\Task01\Task01\obj\Debug\Task01.pdb
+C:\Users\DELL\Desktop\Data Base\Week 01\Task01\Task01\obj\Debug\Task01.Search.resources
+C:\Users\DELL\Desktop\Data Base\Week 01\Task01\Task01\obj\Debug\Task01.Delete.resources
+C:\Users\DELL\Desktop\Data Base\Week 01\Task01\Task01\obj\Debug\Task01.Course.resources
+C:\Users\DELL\Desktop\Data Base\Week 01\Task01\Task01\obj\Debug\Task01.Register_Student.resources
+C:\Users\DELL\Desktop\Data Base\Week 01\Task01\Task01\obj\Debug\Task01.Attendance.resources

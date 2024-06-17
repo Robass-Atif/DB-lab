@@ -1,0 +1,527 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{23418B53-83BA-4165-982C-778A6562C6A0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>DB_Final_lab_project</RootNamespace>
+    <AssemblyName>DB Final lab project</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Configuration.cs" />
+    <Compile Include="Events\Add Event.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Events\Add Event.Designer.cs">
+      <DependentUpon>Add Event.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Events\Delete Event.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Events\Delete Event.Designer.cs">
+      <DependentUpon>Delete Event.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Events\Event Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Events\Event Menu.Designer.cs">
+      <DependentUpon>Event Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Events\Show Events.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Events\Show Events.Designer.cs">
+      <DependentUpon>Show Events.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Events\Updaate Event.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Events\Updaate Event.Designer.cs">
+      <DependentUpon>Updaate Event.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\PageAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\PageAdd.Designer.cs">
+      <DependentUpon>PageAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\PageDelete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\PageDelete.Designer.cs">
+      <DependentUpon>PageDelete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\PageEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\PageEdit.Designer.cs">
+      <DependentUpon>PageEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\PageMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\PageMenu.Designer.cs">
+      <DependentUpon>PageMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\PageView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\PageView.Designer.cs">
+      <DependentUpon>PageView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Referrer\AddReferrer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Referrer\AddReferrer.Designer.cs">
+      <DependentUpon>AddReferrer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Referrer\DeleteReferrer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Referrer\DeleteReferrer.Designer.cs">
+      <DependentUpon>DeleteReferrer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Referrer\EditReferrer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Referrer\EditReferrer.Designer.cs">
+      <DependentUpon>EditReferrer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Referrer\ReferrerMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Referrer\ReferrerMenu.Designer.cs">
+      <DependentUpon>ReferrerMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Referrer\ViewReferrer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Referrer\ViewReferrer.Designer.cs">
+      <DependentUpon>ViewReferrer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\Report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\Report.Designer.cs">
+      <DependentUpon>Report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\ReportMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\ReportMenu.Designer.cs">
+      <DependentUpon>ReportMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\WebsitePageEvents.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>WebsitePageEvents.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\ReferrerReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ReferrerReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\SessionReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SessionReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\WebsiteDeviceDistributionReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>WebsiteDeviceDistributionReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\WebsitePageSection.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>WebsitePageSection.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\WebsitePagesReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>WebsitePagesReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\WebsiteReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>WebsiteReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\WebsiteUSerAgeCategory.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>WebsiteUSerAgeCategory.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\WebsiteUserCount.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>WebsiteUserCount.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\WebsiteUsersCountryDistribution.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>WebsiteUsersCountryDistribution.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Section\Create Section.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Section\Create Section.Designer.cs">
+      <DependentUpon>Create Section.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Section\Delete Section.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Section\Delete Section.Designer.cs">
+      <DependentUpon>Delete Section.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Section\SectionMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Section\SectionMenu.Designer.cs">
+      <DependentUpon>SectionMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Section\Show Section.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Section\Show Section.Designer.cs">
+      <DependentUpon>Show Section.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Section\Update Section.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Section\Update Section.Designer.cs">
+      <DependentUpon>Update Section.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Session\SessionDelete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Session\SessionDelete.Designer.cs">
+      <DependentUpon>SessionDelete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User\AddUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Session\SessionAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Session\SessionAdd.Designer.cs">
+      <DependentUpon>SessionAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Session\SessionEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Session\SessionEdit.Designer.cs">
+      <DependentUpon>SessionEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Session\SessionMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Session\SessionMenu.Designer.cs">
+      <DependentUpon>SessionMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Session\SessionView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Session\SessionView.Designer.cs">
+      <DependentUpon>SessionView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User\AddUser.Designer.cs">
+      <DependentUpon>AddUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User\DeleteUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User\DeleteUser.Designer.cs">
+      <DependentUpon>DeleteUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User\EditUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User\EditUser.Designer.cs">
+      <DependentUpon>EditUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User\MenuUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User\MenuUser.Designer.cs">
+      <DependentUpon>MenuUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User\ShowUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User\ShowUser.Designer.cs">
+      <DependentUpon>ShowUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User\SqlAdapter.cs" />
+    <Compile Include="Website\AddWebsite.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Website\AddWebsite.Designer.cs">
+      <DependentUpon>AddWebsite.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Website\DeleteWebsite.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Website\DeleteWebsite.Designer.cs">
+      <DependentUpon>DeleteWebsite.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Website\EditWebsite.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Website\EditWebsite.Designer.cs">
+      <DependentUpon>EditWebsite.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Website\ShowWebsites.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Website\ShowWebsites.Designer.cs">
+      <DependentUpon>ShowWebsites.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Website\WebsiteMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Website\WebsiteMenu.Designer.cs">
+      <DependentUpon>WebsiteMenu.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Events\Add Event.resx">
+      <DependentUpon>Add Event.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Events\Delete Event.resx">
+      <DependentUpon>Delete Event.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Events\Event Menu.resx">
+      <DependentUpon>Event Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Events\Show Events.resx">
+      <DependentUpon>Show Events.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Events\Updaate Event.resx">
+      <DependentUpon>Updaate Event.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\PageAdd.resx">
+      <DependentUpon>PageAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\PageDelete.resx">
+      <DependentUpon>PageDelete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\PageEdit.resx">
+      <DependentUpon>PageEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\PageMenu.resx">
+      <DependentUpon>PageMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\PageView.resx">
+      <DependentUpon>PageView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Referrer\AddReferrer.resx">
+      <DependentUpon>AddReferrer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Referrer\DeleteReferrer.resx">
+      <DependentUpon>DeleteReferrer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Referrer\EditReferrer.resx">
+      <DependentUpon>EditReferrer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Referrer\ReferrerMenu.resx">
+      <DependentUpon>ReferrerMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Referrer\ViewReferrer.resx">
+      <DependentUpon>ViewReferrer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\Report.resx">
+      <DependentUpon>Report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\ReportMenu.resx">
+      <DependentUpon>ReportMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\WebsitePageEvents.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>WebsitePageEvents.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\ReferrerReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ReferrerReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\SessionReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SessionReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\WebsiteDeviceDistributionReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>WebsiteDeviceDistributionReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\WebsitePageSection.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>WebsitePageSection.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\WebsitePagesReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>WebsitePagesReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\WebsiteReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>WebsiteReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\WebsiteUSerAgeCategory.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>WebsiteUSerAgeCategory.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\WebsiteUserCount.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>WebsiteUserCount.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\WebsiteUsersCountryDistribution.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>WebsiteUsersCountryDistribution.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Section\Create Section.resx">
+      <DependentUpon>Create Section.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Section\Delete Section.resx">
+      <DependentUpon>Delete Section.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Section\SectionMenu.resx">
+      <DependentUpon>SectionMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Section\Show Section.resx">
+      <DependentUpon>Show Section.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Section\Update Section.resx">
+      <DependentUpon>Update Section.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Session\SessionDelete.resx">
+      <DependentUpon>SessionDelete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User\AddUser.resx">
+      <DependentUpon>AddUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Session\SessionAdd.resx">
+      <DependentUpon>SessionAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Session\SessionEdit.resx">
+      <DependentUpon>SessionEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Session\SessionMenu.resx">
+      <DependentUpon>SessionMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Session\SessionView.resx">
+      <DependentUpon>SessionView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User\DeleteUser.resx">
+      <DependentUpon>DeleteUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User\EditUser.resx">
+      <DependentUpon>EditUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User\MenuUser.resx">
+      <DependentUpon>MenuUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User\ShowUser.resx">
+      <DependentUpon>ShowUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Website\AddWebsite.resx">
+      <DependentUpon>AddWebsite.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Website\DeleteWebsite.resx">
+      <DependentUpon>DeleteWebsite.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Website\EditWebsite.resx">
+      <DependentUpon>EditWebsite.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Website\ShowWebsites.resx">
+      <DependentUpon>ShowWebsites.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Website\WebsiteMenu.resx">
+      <DependentUpon>WebsiteMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,9 @@
+C:\Users\DELL\Desktop\Data Base\Mid Project\Mid Project\Mid Project\bin\Debug\Mid Project.exe.config
+C:\Users\DELL\Desktop\Data Base\Mid Project\Mid Project\Mid Project\bin\Debug\Mid Project.exe
+C:\Users\DELL\Desktop\Data Base\Mid Project\Mid Project\Mid Project\bin\Debug\Mid Project.pdb
+C:\Users\DELL\Desktop\Data Base\Mid Project\Mid Project\Mid Project\obj\Debug\Mid Project.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Data Base\Mid Project\Mid Project\Mid Project\obj\Debug\Mid_Project.Properties.Resources.resources
+C:\Users\DELL\Desktop\Data Base\Mid Project\Mid Project\Mid Project\obj\Debug\Mid Project.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Data Base\Mid Project\Mid Project\Mid Project\obj\Debug\Mid Project.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Data Base\Mid Project\Mid Project\Mid Project\obj\Debug\Mid Project.exe
+C:\Users\DELL\Desktop\Data Base\Mid Project\Mid Project\Mid Project\obj\Debug\Mid Project.pdb

@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mabd2\\Desktop\\University\\Database Systems\\Website Traffic Analysis\\dbfinalpid-7\\DB Final lab project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23418B53-83BA-4165-982C-778A6562C6A0}|DB Final lab project\\DB Final lab project.csproj|c:\\users\\mabd2\\desktop\\university\\database systems\\website traffic analysis\\dbfinalpid-7\\db final lab project\\db final lab project\\pages\\pagemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23418B53-83BA-4165-982C-778A6562C6A0}|DB Final lab project\\DB Final lab project.csproj|solutionrelative:db final lab project\\pages\\pagemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23418B53-83BA-4165-982C-778A6562C6A0}|DB Final lab project\\DB Final lab project.csproj|c:\\users\\mabd2\\desktop\\university\\database systems\\website traffic analysis\\dbfinalpid-7\\db final lab project\\db final lab project\\pages\\pagemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23418B53-83BA-4165-982C-778A6562C6A0}|DB Final lab project\\DB Final lab project.csproj|solutionrelative:db final lab project\\pages\\pagemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23418B53-83BA-4165-982C-778A6562C6A0}|DB Final lab project\\DB Final lab project.csproj|c:\\users\\mabd2\\desktop\\university\\database systems\\website traffic analysis\\dbfinalpid-7\\db final lab project\\db final lab project\\website\\websitemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23418B53-83BA-4165-982C-778A6562C6A0}|DB Final lab project\\DB Final lab project.csproj|solutionrelative:db final lab project\\website\\websitemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23418B53-83BA-4165-982C-778A6562C6A0}|DB Final lab project\\DB Final lab project.csproj|c:\\users\\mabd2\\desktop\\university\\database systems\\website traffic analysis\\dbfinalpid-7\\db final lab project\\db final lab project\\website\\websitemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23418B53-83BA-4165-982C-778A6562C6A0}|DB Final lab project\\DB Final lab project.csproj|solutionrelative:db final lab project\\website\\websitemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23418B53-83BA-4165-982C-778A6562C6A0}|DB Final lab project\\DB Final lab project.csproj|c:\\users\\mabd2\\desktop\\university\\database systems\\website traffic analysis\\dbfinalpid-7\\db final lab project\\db final lab project\\session\\sessionadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23418B53-83BA-4165-982C-778A6562C6A0}|DB Final lab project\\DB Final lab project.csproj|solutionrelative:db final lab project\\session\\sessionadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23418B53-83BA-4165-982C-778A6562C6A0}|DB Final lab project\\DB Final lab project.csproj|c:\\users\\mabd2\\desktop\\university\\database systems\\website traffic analysis\\dbfinalpid-7\\db final lab project\\db final lab project\\session\\sessionadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23418B53-83BA-4165-982C-778A6562C6A0}|DB Final lab project\\DB Final lab project.csproj|solutionrelative:db final lab project\\session\\sessionadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PageMenu.cs",
+              "DocumentMoniker": "C:\\Users\\mabd2\\Desktop\\University\\Database Systems\\Website Traffic Analysis\\dbfinalpid-7\\DB Final lab project\\DB Final lab project\\Pages\\PageMenu.cs",
+              "RelativeDocumentMoniker": "DB Final lab project\\Pages\\PageMenu.cs",
+              "ToolTip": "C:\\Users\\mabd2\\Desktop\\University\\Database Systems\\Website Traffic Analysis\\dbfinalpid-7\\DB Final lab project\\DB Final lab project\\Pages\\PageMenu.cs",
+              "RelativeToolTip": "DB Final lab project\\Pages\\PageMenu.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAIwDEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T09:47:10.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PageMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mabd2\\Desktop\\University\\Database Systems\\Website Traffic Analysis\\dbfinalpid-7\\DB Final lab project\\DB Final lab project\\Pages\\PageMenu.cs",
+              "RelativeDocumentMoniker": "DB Final lab project\\Pages\\PageMenu.cs",
+              "ToolTip": "C:\\Users\\mabd2\\Desktop\\University\\Database Systems\\Website Traffic Analysis\\dbfinalpid-7\\DB Final lab project\\DB Final lab project\\Pages\\PageMenu.cs [Design]",
+              "RelativeToolTip": "DB Final lab project\\Pages\\PageMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T09:46:40.913Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebsiteMenu.cs",
+              "DocumentMoniker": "C:\\Users\\mabd2\\Desktop\\University\\Database Systems\\Website Traffic Analysis\\dbfinalpid-7\\DB Final lab project\\DB Final lab project\\Website\\WebsiteMenu.cs",
+              "RelativeDocumentMoniker": "DB Final lab project\\Website\\WebsiteMenu.cs",
+              "ToolTip": "C:\\Users\\mabd2\\Desktop\\University\\Database Systems\\Website Traffic Analysis\\dbfinalpid-7\\DB Final lab project\\DB Final lab project\\Website\\WebsiteMenu.cs",
+              "RelativeToolTip": "DB Final lab project\\Website\\WebsiteMenu.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAWwD0AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T09:44:38.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebsiteMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mabd2\\Desktop\\University\\Database Systems\\Website Traffic Analysis\\dbfinalpid-7\\DB Final lab project\\DB Final lab project\\Website\\WebsiteMenu.cs",
+              "RelativeDocumentMoniker": "DB Final lab project\\Website\\WebsiteMenu.cs",
+              "ToolTip": "C:\\Users\\mabd2\\Desktop\\University\\Database Systems\\Website Traffic Analysis\\dbfinalpid-7\\DB Final lab project\\DB Final lab project\\Website\\WebsiteMenu.cs [Design]",
+              "RelativeToolTip": "DB Final lab project\\Website\\WebsiteMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T09:44:36.276Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SessionAdd.cs",
+              "DocumentMoniker": "C:\\Users\\mabd2\\Desktop\\University\\Database Systems\\Website Traffic Analysis\\dbfinalpid-7\\DB Final lab project\\DB Final lab project\\Session\\SessionAdd.cs",
+              "RelativeDocumentMoniker": "DB Final lab project\\Session\\SessionAdd.cs",
+              "ToolTip": "C:\\Users\\mabd2\\Desktop\\University\\Database Systems\\Website Traffic Analysis\\dbfinalpid-7\\DB Final lab project\\DB Final lab project\\Session\\SessionAdd.cs",
+              "RelativeToolTip": "DB Final lab project\\Session\\SessionAdd.cs",
+              "ViewState": "AQIAALUAAAAAAAAAAADgv7YAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T09:37:44.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SessionAdd.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mabd2\\Desktop\\University\\Database Systems\\Website Traffic Analysis\\dbfinalpid-7\\DB Final lab project\\DB Final lab project\\Session\\SessionAdd.cs",
+              "RelativeDocumentMoniker": "DB Final lab project\\Session\\SessionAdd.cs",
+              "ToolTip": "C:\\Users\\mabd2\\Desktop\\University\\Database Systems\\Website Traffic Analysis\\dbfinalpid-7\\DB Final lab project\\DB Final lab project\\Session\\SessionAdd.cs [Design]",
+              "RelativeToolTip": "DB Final lab project\\Session\\SessionAdd.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T09:37:41.873Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

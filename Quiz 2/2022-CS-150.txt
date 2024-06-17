@@ -1,0 +1,3 @@
+Q1
+select B.FirstName+' ' +B.LastName as EMplyeeNAme,DATEDIFF(Year,B.BirthDate,GetDate()) as EmployeeAge,DATEDIFF(Year,d.BirthDate,GETDATE()) as ManagerAge from Employees B join Employees d on B.ReportsTo=d.EmployeeID where DATEDIFF(Year,B.BirthDate,GetDate())>=60 and DATEDIFF(Year,d.BirthDate,GETDATE())>=70
+***

@@ -1,0 +1,22 @@
+C:\Users\DELL\Desktop\Data Base\Mid Project\MID Project\MID Project\bin\Debug\MID Project.exe.config
+C:\Users\DELL\Desktop\Data Base\Mid Project\MID Project\MID Project\bin\Debug\MID Project.exe
+C:\Users\DELL\Desktop\Data Base\Mid Project\MID Project\MID Project\bin\Debug\MID Project.pdb
+C:\Users\DELL\Desktop\Data Base\Mid Project\MID Project\MID Project\obj\Debug\MID Project.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Data Base\Mid Project\MID Project\MID Project\obj\Debug\MID_Project.Properties.Resources.resources
+C:\Users\DELL\Desktop\Data Base\Mid Project\MID Project\MID Project\obj\Debug\MID Project.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Data Base\Mid Project\MID Project\MID Project\obj\Debug\MID Project.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Data Base\Mid Project\MID Project\MID Project\obj\Debug\MID Project.exe
+C:\Users\DELL\Desktop\Data Base\Mid Project\MID Project\MID Project\obj\Debug\MID Project.pdb
+C:\Users\DELL\Desktop\Data Base\Mid Project\MID Project\MID Project\obj\Debug\MID_Project.ADD_Student.resources
+C:\Users\DELL\Desktop\Data Base\Mid Project\MID Project\MID Project\obj\Debug\MID_Project.Form1.resources
+C:\Users\DELL\Desktop\Data Base\Mid Project\MID Project\MID Project\obj\Debug\MID_Project.StudentMenu.resources
+C:\Users\DELL\Desktop\Data Base\Mid Project\MID Project\MID Project\obj\Debug\MID_Project.AttendanceOfStudent.resources
+C:\Users\DELL\Desktop\Data Base\Mid Project\MID Project\MID Project\obj\Debug\MID_Project.Update_Student.resources
+C:\Users\DELL\Desktop\Data Base\Mid Project\MID Project\MID Project\obj\Debug\MID_Project.CLo_Menu.resources
+C:\Users\DELL\Desktop\Data Base\Mid Project\MID Project\MID Project\obj\Debug\MID_Project.CloAdd.resources
+C:\Users\DELL\Desktop\Data Base\Mid Project\MID Project\MID Project\obj\Debug\MID_Project.AddRubric.resources
+C:\Users\DELL\Desktop\Data Base\Mid Project\MID Project\MID Project\obj\Debug\MID_Project.RubricMenu.resources
+C:\Users\DELL\Desktop\Data Base\Mid Project\MID Project\MID Project\obj\Debug\MID_Project.Update_Clo.resources
+C:\Users\DELL\Desktop\Data Base\Mid Project\MID Project\MID Project\obj\Debug\MID_Project.Delete_Clo.resources
+C:\Users\DELL\Desktop\Data Base\Mid Project\MID Project\MID Project\obj\Debug\MID_Project.Rubric_Level.RubricLevel_Menu.resources
+C:\Users\DELL\Desktop\Data Base\Mid Project\MID Project\MID Project\obj\Debug\MID_Project.Rubric_Level.RubricLevel.resources

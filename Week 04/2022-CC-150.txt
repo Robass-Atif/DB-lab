@@ -1,0 +1,43 @@
+Q1
+SELECT ProductName FROM Products WHERE UnitPrice > (SELECT AVG(UnitPrice) FROM Products);
+***
+
+
+Q2
+select ShippedDate,COUNT(*) as NumberOfOrders from Orders where ShippedDate is not null group by ShippedDate;
+***
+
+
+Q3
+select Country from Suppliers group by Country having count(*)>=2;
+***
+
+
+Q4
+select Month(ShippedDate) as [Month Number],COUNT(*) As [Order Delayed] from Orders  where ShippedDate is not null and ShippedDate>RequiredDate group by MONTH(ShippedDate) ;
+***
+
+
+Q5
+SELECT OrderID, SUM(Discount) AS TotalDiscount FROM [Order Details] GROUP BY OrderID HAVING SUM(Discount) > 0;
+***
+
+
+Q6
+SELECT ShipCity, COUNT(*) AS NumberOfOrders FROM [Orders] WHERE ShipCountry = 'USA' AND YEAR(ShippedDate) = 1997 GROUP BY ShipCity;
+***
+
+
+Q7
+SELECT ShipCountry AS Country, COUNT(*) AS [Orders Delayes] FROM [Orders] WHERE ShippedDate > RequiredDate GROUP BY ShipCountry;
+***
+
+
+Q8
+SELECT OrderID, SUM(Discount)AS Discount,SUM(UnitPrice) As [Total Price]  FROM [Order Details] GROUP BY OrderID HAVING SUM(Discount) > 0;
+***
+
+
+Q9
+SELECT ShipRegion, ShipCity, COUNT(*) AS NumberOfOrders FROM Orders WHERE YEAR(OrderDate) = '1997' GROUP BY ShipRegion, ShipCity ;
+***

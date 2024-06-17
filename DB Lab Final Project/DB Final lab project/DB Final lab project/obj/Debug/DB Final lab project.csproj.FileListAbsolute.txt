@@ -1,0 +1,332 @@
+C:\Users\DELL\Desktop\Data Base\DB Lab Final Project\DB Final lab project\DB Final lab project\bin\Debug\DB Final lab project.exe.config
+C:\Users\DELL\Desktop\Data Base\DB Lab Final Project\DB Final lab project\DB Final lab project\bin\Debug\DB Final lab project.exe
+C:\Users\DELL\Desktop\Data Base\DB Lab Final Project\DB Final lab project\DB Final lab project\bin\Debug\DB Final lab project.pdb
+C:\Users\DELL\Desktop\Data Base\DB Lab Final Project\DB Final lab project\DB Final lab project\obj\Debug\DB Final lab project.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Data Base\DB Lab Final Project\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Form1.resources
+C:\Users\DELL\Desktop\Data Base\DB Lab Final Project\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Properties.Resources.resources
+C:\Users\DELL\Desktop\Data Base\DB Lab Final Project\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Section.SectionMenu.resources
+C:\Users\DELL\Desktop\Data Base\DB Lab Final Project\DB Final lab project\DB Final lab project\obj\Debug\DB Final lab project.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Data Base\DB Lab Final Project\DB Final lab project\DB Final lab project\obj\Debug\DB Final lab project.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Data Base\DB Lab Final Project\DB Final lab project\DB Final lab project\obj\Debug\DB Final lab project.exe
+C:\Users\DELL\Desktop\Data Base\DB Lab Final Project\DB Final lab project\DB Final lab project\obj\Debug\DB Final lab project.pdb
+C:\Users\DELL\Desktop\Data Base\DB Lab Final Project\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Events.Event_Menu.resources
+C:\Users\DELL\Desktop\Data Base\DB Lab Final Project\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Section.Create_Section.resources
+C:\Users\DELL\Desktop\Data Base\DB Lab Final Project\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Section.Delete_Section.resources
+C:\Users\DELL\Desktop\Data Base\DB Lab Final Project\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Section.Show_Section.resources
+C:\Users\DELL\Desktop\Data Base\DB Lab Final Project\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Section.Update_Section.resources
+C:\Users\DELL\Desktop\Data Base\DB Lab Final Project\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Events.Add_Event.resources
+C:\Users\DELL\Desktop\Data Base\DB Lab Final Project\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Events.Delete_Event.resources
+C:\Users\DELL\Desktop\Data Base\DB Lab Final Project\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Events.Show_Events.resources
+C:\Users\DELL\Desktop\Data Base\DB Lab Final Project\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Events.Updaate_Event.resources
+<<<<<<< HEAD
+C:\Users\mabd2\Desktop\University\Database Systems\Website Traffic Analysis\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB Final lab project.csproj.AssemblyReference.cache
+C:\Users\mabd2\Desktop\University\Database Systems\Website Traffic Analysis\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Events.Add_Event.resources
+C:\Users\mabd2\Desktop\University\Database Systems\Website Traffic Analysis\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Events.Delete_Event.resources
+C:\Users\mabd2\Desktop\University\Database Systems\Website Traffic Analysis\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Events.Event_Menu.resources
+C:\Users\mabd2\Desktop\University\Database Systems\Website Traffic Analysis\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Events.Show_Events.resources
+C:\Users\mabd2\Desktop\University\Database Systems\Website Traffic Analysis\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Events.Updaate_Event.resources
+C:\Users\mabd2\Desktop\University\Database Systems\Website Traffic Analysis\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Form1.resources
+C:\Users\mabd2\Desktop\University\Database Systems\Website Traffic Analysis\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Pages.PageAdd.resources
+C:\Users\mabd2\Desktop\University\Database Systems\Website Traffic Analysis\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Properties.Resources.resources
+C:\Users\mabd2\Desktop\University\Database Systems\Website Traffic Analysis\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Section.Create_Section.resources
+C:\Users\mabd2\Desktop\University\Database Systems\Website Traffic Analysis\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Section.Delete_Section.resources
+C:\Users\mabd2\Desktop\University\Database Systems\Website Traffic Analysis\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Section.SectionMenu.resources
+C:\Users\mabd2\Desktop\University\Database Systems\Website Traffic Analysis\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Section.Show_Section.resources
+C:\Users\mabd2\Desktop\University\Database Systems\Website Traffic Analysis\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Section.Update_Section.resources
+C:\Users\mabd2\Desktop\University\Database Systems\Website Traffic Analysis\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB Final lab project.csproj.GenerateResource.cache
+C:\Users\mabd2\Desktop\University\Database Systems\Website Traffic Analysis\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB Final lab project.csproj.CoreCompileInputs.cache
+C:\Users\mabd2\Desktop\University\Database Systems\Website Traffic Analysis\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB Final lab project.exe
+C:\Users\mabd2\Desktop\University\Database Systems\Website Traffic Analysis\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB Final lab project.pdb
+C:\Users\mabd2\Desktop\University\Database Systems\Website Traffic Analysis\dbfinalpid-7\DB Final lab project\DB Final lab project\bin\Debug\DB Final lab project.exe.config
+C:\Users\mabd2\Desktop\University\Database Systems\Website Traffic Analysis\dbfinalpid-7\DB Final lab project\DB Final lab project\bin\Debug\DB Final lab project.exe
+C:\Users\mabd2\Desktop\University\Database Systems\Website Traffic Analysis\dbfinalpid-7\DB Final lab project\DB Final lab project\bin\Debug\DB Final lab project.pdb
+C:\Users\mabd2\Desktop\University\Database Systems\Website Traffic Analysis\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Pages.PageMenu.resources
+=======
+D:\4th Semester\DB\Final Project\dbfinalpid-7\DB Final lab project\DB Final lab project\bin\Debug\DB Final lab project.exe.config
+D:\4th Semester\DB\Final Project\dbfinalpid-7\DB Final lab project\DB Final lab project\bin\Debug\DB Final lab project.exe
+D:\4th Semester\DB\Final Project\dbfinalpid-7\DB Final lab project\DB Final lab project\bin\Debug\DB Final lab project.pdb
+D:\4th Semester\DB\Final Project\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB Final lab project.csproj.AssemblyReference.cache
+D:\4th Semester\DB\Final Project\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Events.Add_Event.resources
+D:\4th Semester\DB\Final Project\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Events.Delete_Event.resources
+D:\4th Semester\DB\Final Project\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Events.Event_Menu.resources
+D:\4th Semester\DB\Final Project\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Events.Show_Events.resources
+D:\4th Semester\DB\Final Project\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Events.Updaate_Event.resources
+D:\4th Semester\DB\Final Project\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Form1.resources
+D:\4th Semester\DB\Final Project\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Properties.Resources.resources
+D:\4th Semester\DB\Final Project\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Section.Create_Section.resources
+D:\4th Semester\DB\Final Project\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Section.Delete_Section.resources
+D:\4th Semester\DB\Final Project\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Section.SectionMenu.resources
+D:\4th Semester\DB\Final Project\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Section.Show_Section.resources
+D:\4th Semester\DB\Final Project\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Section.Update_Section.resources
+D:\4th Semester\DB\Final Project\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB Final lab project.csproj.GenerateResource.cache
+D:\4th Semester\DB\Final Project\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB Final lab project.csproj.CoreCompileInputs.cache
+D:\4th Semester\DB\Final Project\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB Final lab project.exe
+D:\4th Semester\DB\Final Project\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB Final lab project.pdb
+D:\4th Semester\DB\Final Project\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Website.WebsiteMenu.resources
+D:\4th Semester\DB\Final Project\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Website.AddWebsite.resources
+D:\4th Semester\DB\Final Project\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Website.ShowWebsites.resources
+>>>>>>> 02a496f4609d518c6f0042eb0cf27cae4da35902
+C:\Users\mabd2\Desktop\University\Database Systems\Website Traffic Analysis\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Pages.PageEdit.resources
+C:\Users\mabd2\Desktop\University\Database Systems\Website Traffic Analysis\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Website.AddWebsite.resources
+C:\Users\mabd2\Desktop\University\Database Systems\Website Traffic Analysis\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Website.ShowWebsites.resources
+C:\Users\mabd2\Desktop\University\Database Systems\Website Traffic Analysis\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Website.WebsiteMenu.resources
+C:\Users\mabd2\Desktop\University\Database Systems\Website Traffic Analysis\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Pages.PageView.resources
+C:\Users\mabd2\Desktop\University\Database Systems\Website Traffic Analysis\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Pages.PageDelete.resources
+D:\4th Semester\DB\Final Project\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Pages.PageAdd.resources
+D:\4th Semester\DB\Final Project\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Pages.PageEdit.resources
+D:\4th Semester\DB\Final Project\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Pages.PageMenu.resources
+D:\4th Semester\DB\Final Project\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Website.EditWebsite.resources
+E:\4TH - S E M E S T E R\D B\ProjectLabFInal\dbfinalpid-7\DB Final lab project\DB Final lab project\bin\Debug\DB Final lab project.exe.config
+E:\4TH - S E M E S T E R\D B\ProjectLabFInal\dbfinalpid-7\DB Final lab project\DB Final lab project\bin\Debug\DB Final lab project.exe
+E:\4TH - S E M E S T E R\D B\ProjectLabFInal\dbfinalpid-7\DB Final lab project\DB Final lab project\bin\Debug\DB Final lab project.pdb
+E:\4TH - S E M E S T E R\D B\ProjectLabFInal\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB Final lab project.csproj.AssemblyReference.cache
+E:\4TH - S E M E S T E R\D B\ProjectLabFInal\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Events.Add_Event.resources
+E:\4TH - S E M E S T E R\D B\ProjectLabFInal\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Events.Delete_Event.resources
+E:\4TH - S E M E S T E R\D B\ProjectLabFInal\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Events.Event_Menu.resources
+E:\4TH - S E M E S T E R\D B\ProjectLabFInal\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Events.Show_Events.resources
+E:\4TH - S E M E S T E R\D B\ProjectLabFInal\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Events.Updaate_Event.resources
+E:\4TH - S E M E S T E R\D B\ProjectLabFInal\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Form1.resources
+E:\4TH - S E M E S T E R\D B\ProjectLabFInal\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Pages.PageAdd.resources
+E:\4TH - S E M E S T E R\D B\ProjectLabFInal\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Pages.PageEdit.resources
+E:\4TH - S E M E S T E R\D B\ProjectLabFInal\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Pages.PageMenu.resources
+E:\4TH - S E M E S T E R\D B\ProjectLabFInal\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Properties.Resources.resources
+E:\4TH - S E M E S T E R\D B\ProjectLabFInal\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Section.Create_Section.resources
+E:\4TH - S E M E S T E R\D B\ProjectLabFInal\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Section.Delete_Section.resources
+E:\4TH - S E M E S T E R\D B\ProjectLabFInal\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Section.SectionMenu.resources
+E:\4TH - S E M E S T E R\D B\ProjectLabFInal\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Section.Show_Section.resources
+E:\4TH - S E M E S T E R\D B\ProjectLabFInal\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Section.Update_Section.resources
+E:\4TH - S E M E S T E R\D B\ProjectLabFInal\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Users.AddUser.resources
+E:\4TH - S E M E S T E R\D B\ProjectLabFInal\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Website.AddWebsite.resources
+E:\4TH - S E M E S T E R\D B\ProjectLabFInal\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Website.EditWebsite.resources
+E:\4TH - S E M E S T E R\D B\ProjectLabFInal\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Website.ShowWebsites.resources
+E:\4TH - S E M E S T E R\D B\ProjectLabFInal\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Website.WebsiteMenu.resources
+E:\4TH - S E M E S T E R\D B\ProjectLabFInal\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB Final lab project.csproj.GenerateResource.cache
+E:\4TH - S E M E S T E R\D B\ProjectLabFInal\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB Final lab project.csproj.CoreCompileInputs.cache
+E:\4TH - S E M E S T E R\D B\ProjectLabFInal\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB Final lab project.exe
+E:\4TH - S E M E S T E R\D B\ProjectLabFInal\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB Final lab project.pdb
+E:\4TH - S E M E S T E R\D B\ProjectLabFInal\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.User.ShowUser.resources
+E:\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\ProjectLabFInal\dbfinalpid-7\DB Final lab project\DB Final lab project\bin\Debug\DB Final lab project.exe.config
+E:\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\ProjectLabFInal\dbfinalpid-7\DB Final lab project\DB Final lab project\bin\Debug\DB Final lab project.exe
+E:\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\ProjectLabFInal\dbfinalpid-7\DB Final lab project\DB Final lab project\bin\Debug\DB Final lab project.pdb
+E:\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\ProjectLabFInal\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB Final lab project.csproj.AssemblyReference.cache
+E:\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\ProjectLabFInal\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Events.Add_Event.resources
+E:\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\ProjectLabFInal\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Events.Delete_Event.resources
+E:\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\ProjectLabFInal\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Events.Event_Menu.resources
+E:\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\ProjectLabFInal\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Events.Show_Events.resources
+E:\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\ProjectLabFInal\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Events.Updaate_Event.resources
+E:\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\ProjectLabFInal\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Form1.resources
+E:\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\ProjectLabFInal\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Pages.PageAdd.resources
+E:\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\ProjectLabFInal\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Pages.PageEdit.resources
+E:\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\ProjectLabFInal\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Pages.PageMenu.resources
+E:\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\ProjectLabFInal\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Properties.Resources.resources
+E:\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\ProjectLabFInal\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Section.Create_Section.resources
+E:\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\ProjectLabFInal\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Section.Delete_Section.resources
+E:\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\ProjectLabFInal\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Section.SectionMenu.resources
+E:\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\ProjectLabFInal\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Section.Show_Section.resources
+E:\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\ProjectLabFInal\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Section.Update_Section.resources
+E:\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\ProjectLabFInal\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Users.AddUser.resources
+E:\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\ProjectLabFInal\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.User.ShowUser.resources
+E:\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\ProjectLabFInal\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Website.AddWebsite.resources
+E:\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\ProjectLabFInal\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Website.EditWebsite.resources
+E:\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\ProjectLabFInal\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Website.ShowWebsites.resources
+E:\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\ProjectLabFInal\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Website.WebsiteMenu.resources
+E:\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\ProjectLabFInal\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB Final lab project.csproj.GenerateResource.cache
+E:\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\ProjectLabFInal\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB Final lab project.csproj.CoreCompileInputs.cache
+E:\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\ProjectLabFInal\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB Final lab project.exe
+E:\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\ProjectLabFInal\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB Final lab project.pdb
+E:\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\ProjectLabFInal\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.User.EditUser.resources
+>>>>>>> 2eccd09e435839d9896a722e8e71d69bbb94fc60
+C:\Users\mabd2\Desktop\University\Database Systems\Website Traffic Analysis\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Users.AddUser.resources
+C:\Users\mabd2\Desktop\University\Database Systems\Website Traffic Analysis\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Website.EditWebsite.resources
+C:\Users\mabd2\Desktop\University\Database Systems\Website Traffic Analysis\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Session.SessionAdd.resources
+C:\Users\mabd2\Desktop\University\Database Systems\Website Traffic Analysis\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Session.SessionMenu.resources
+D:\4th Semester\DB\Final Project\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Pages.PageDelete.resources
+D:\4th Semester\DB\Final Project\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Pages.PageView.resources
+D:\4th Semester\DB\Final Project\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Users.AddUser.resources
+D:\4th Semester\DB\Final Project\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Website.DeleteWebsite.resources
+C:\Users\DELL\Desktop\Data Base\DB Lab Final Project\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Pages.PageAdd.resources
+C:\Users\DELL\Desktop\Data Base\DB Lab Final Project\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Pages.PageDelete.resources
+C:\Users\DELL\Desktop\Data Base\DB Lab Final Project\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Pages.PageEdit.resources
+C:\Users\DELL\Desktop\Data Base\DB Lab Final Project\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Pages.PageMenu.resources
+C:\Users\DELL\Desktop\Data Base\DB Lab Final Project\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Pages.PageView.resources
+C:\Users\DELL\Desktop\Data Base\DB Lab Final Project\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Users.AddUser.resources
+C:\Users\DELL\Desktop\Data Base\DB Lab Final Project\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Website.AddWebsite.resources
+C:\Users\DELL\Desktop\Data Base\DB Lab Final Project\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Website.DeleteWebsite.resources
+C:\Users\DELL\Desktop\Data Base\DB Lab Final Project\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Website.EditWebsite.resources
+C:\Users\DELL\Desktop\Data Base\DB Lab Final Project\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Website.ShowWebsites.resources
+C:\Users\DELL\Desktop\Data Base\DB Lab Final Project\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Website.WebsiteMenu.resources
+D:\4th Semester\DB\Final Project\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Referrer.AddReferrer.resources
+D:\4th Semester\DB\Final Project\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Referrer.ReferrerMenu.resources
+D:\4th Semester\DB\Final Project\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Referrer.ViewReferrer.resources
+>>>>>>> fef5154e1c69d283bab98de1fea6a6fcca5124a0
+C:\Users\mabd2\Desktop\University\Database Systems\Website Traffic Analysis\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Referrer.AddReferrer.resources
+C:\Users\mabd2\Desktop\University\Database Systems\Website Traffic Analysis\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Session.SessionView.resources
+C:\Users\mabd2\Desktop\University\Database Systems\Website Traffic Analysis\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Website.DeleteWebsite.resources
+C:\Users\mabd2\Desktop\University\Database Systems\Website Traffic Analysis\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Session.SessionEdit.resources
+>>>>>>> 03f9d9b2f8219a9b0d1bee65d0dd64d7d3001a88
+>>>>>>> 87242388e5afc53c9e205b7939a05ff012dc9ef1
+D:\4th Semester\DB\Final Project\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Session.SessionAdd.resources
+D:\4th Semester\DB\Final Project\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Session.SessionMenu.resources
+D:\4th Semester\DB\Final Project\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Session.SessionView.resources
+D:\4th Semester\DB\Final Project\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.User.EditUser.resources
+D:\4th Semester\DB\Final Project\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.User.ShowUser.resources
+D:\4th Semester\DB\Final Project\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Referrer.EditReferrer.resources
+D:\4th Semester\DB\Final Project\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Referrer.DeleteReferrer.resources
+>>>>>>> 49a9ec5379717c9d6e6c0b3710306f8d57b0f058
+C:\Users\mabd2\Desktop\University\Database Systems\Website Traffic Analysis\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Referrer.ReferrerMenu.resources
+C:\Users\mabd2\Desktop\University\Database Systems\Website Traffic Analysis\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Referrer.ViewReferrer.resources
+C:\Users\mabd2\Desktop\University\Database Systems\Website Traffic Analysis\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Session.SessionDelete.resources
+C:\Users\mabd2\Desktop\University\Database Systems\Website Traffic Analysis\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.User.EditUser.resources
+C:\Users\mabd2\Desktop\University\Database Systems\Website Traffic Analysis\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.User.ShowUser.resources
+C:\Users\DELL\Desktop\Data Base\DB Lab Final Project\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Referrer.AddReferrer.resources
+C:\Users\DELL\Desktop\Data Base\DB Lab Final Project\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Referrer.ReferrerMenu.resources
+C:\Users\DELL\Desktop\Data Base\DB Lab Final Project\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Referrer.ViewReferrer.resources
+C:\Users\DELL\Desktop\Data Base\DB Lab Final Project\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Session.SessionDelete.resources
+C:\Users\DELL\Desktop\Data Base\DB Lab Final Project\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Session.SessionAdd.resources
+C:\Users\DELL\Desktop\Data Base\DB Lab Final Project\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Session.SessionEdit.resources
+C:\Users\DELL\Desktop\Data Base\DB Lab Final Project\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Session.SessionMenu.resources
+C:\Users\DELL\Desktop\Data Base\DB Lab Final Project\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Session.SessionView.resources
+C:\Users\DELL\Desktop\Data Base\DB Lab Final Project\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.User.EditUser.resources
+C:\Users\DELL\Desktop\Data Base\DB Lab Final Project\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.User.ShowUser.resources
+>>>>>>> 2809b715a9e5f5b2636c554f6bc1734e7ef09c3f
+C:\Users\DELL\Desktop\Data Base\DB Lab Final Project\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Referrer.DeleteReferrer.resources
+C:\Users\DELL\Desktop\Data Base\DB Lab Final Project\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Referrer.EditReferrer.resources
+C:\Users\DELL\Desktop\Data Base\DB Lab Final Project\DB Final lab project\DB Final lab project\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\DELL\Desktop\Data Base\DB Lab Final Project\DB Final lab project\DB Final lab project\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\DELL\Desktop\Data Base\DB Lab Final Project\DB Final lab project\DB Final lab project\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\DELL\Desktop\Data Base\DB Lab Final Project\DB Final lab project\DB Final lab project\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\DELL\Desktop\Data Base\DB Lab Final Project\DB Final lab project\DB Final lab project\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\DELL\Desktop\Data Base\DB Lab Final Project\DB Final lab project\DB Final lab project\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\DELL\Desktop\Data Base\DB Lab Final Project\DB Final lab project\DB Final lab project\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\DELL\Desktop\Data Base\DB Lab Final Project\DB Final lab project\DB Final lab project\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\DELL\Desktop\Data Base\DB Lab Final Project\DB Final lab project\DB Final lab project\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\DELL\Desktop\Data Base\DB Lab Final Project\DB Final lab project\DB Final lab project\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\DELL\Desktop\Data Base\DB Lab Final Project\DB Final lab project\DB Final lab project\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\DELL\Desktop\Data Base\DB Lab Final Project\DB Final lab project\DB Final lab project\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\DELL\Desktop\Data Base\DB Lab Final Project\DB Final lab project\DB Final lab project\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\DELL\Desktop\Data Base\DB Lab Final Project\DB Final lab project\DB Final lab project\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\DELL\Desktop\Data Base\DB Lab Final Project\DB Final lab project\DB Final lab project\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\DELL\Desktop\Data Base\DB Lab Final Project\DB Final lab project\DB Final lab project\bin\Debug\stdole.dll
+C:\Users\DELL\Desktop\Data Base\DB Lab Final Project\DB Final lab project\DB Final lab project\obj\Debug\DB Final lab project.csproj.CopyComplete
+D:\4th Semester\DB\Final Project\dbfinalpid-7\DB Final lab project\DB Final lab project\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\4th Semester\DB\Final Project\dbfinalpid-7\DB Final lab project\DB Final lab project\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\4th Semester\DB\Final Project\dbfinalpid-7\DB Final lab project\DB Final lab project\bin\Debug\CrystalDecisions.Shared.dll
+D:\4th Semester\DB\Final Project\dbfinalpid-7\DB Final lab project\DB Final lab project\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\4th Semester\DB\Final Project\dbfinalpid-7\DB Final lab project\DB Final lab project\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\4th Semester\DB\Final Project\dbfinalpid-7\DB Final lab project\DB Final lab project\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\4th Semester\DB\Final Project\dbfinalpid-7\DB Final lab project\DB Final lab project\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\4th Semester\DB\Final Project\dbfinalpid-7\DB Final lab project\DB Final lab project\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\4th Semester\DB\Final Project\dbfinalpid-7\DB Final lab project\DB Final lab project\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\4th Semester\DB\Final Project\dbfinalpid-7\DB Final lab project\DB Final lab project\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\4th Semester\DB\Final Project\dbfinalpid-7\DB Final lab project\DB Final lab project\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\4th Semester\DB\Final Project\dbfinalpid-7\DB Final lab project\DB Final lab project\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\4th Semester\DB\Final Project\dbfinalpid-7\DB Final lab project\DB Final lab project\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\4th Semester\DB\Final Project\dbfinalpid-7\DB Final lab project\DB Final lab project\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\4th Semester\DB\Final Project\dbfinalpid-7\DB Final lab project\DB Final lab project\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\4th Semester\DB\Final Project\dbfinalpid-7\DB Final lab project\DB Final lab project\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\4th Semester\DB\Final Project\dbfinalpid-7\DB Final lab project\DB Final lab project\bin\Debug\stdole.dll
+D:\4th Semester\DB\Final Project\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Session.SessionDelete.resources
+D:\4th Semester\DB\Final Project\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Session.SessionEdit.resources
+D:\4th Semester\DB\Final Project\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Website.Report.resources
+D:\4th Semester\DB\Final Project\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB Final lab project.csproj.CopyComplete
+>>>>>>> aab9c9006ef0ac950f06a18cad0de6aad944f372
+>>>>>>> 87abac88bb0b59807d1421ce5541576941b30025
+C:\Users\mabd2\Desktop\University\Database Systems\Website Traffic Analysis\dbfinalpid-7\DB Final lab project\DB Final lab project\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\mabd2\Desktop\University\Database Systems\Website Traffic Analysis\dbfinalpid-7\DB Final lab project\DB Final lab project\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\mabd2\Desktop\University\Database Systems\Website Traffic Analysis\dbfinalpid-7\DB Final lab project\DB Final lab project\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\mabd2\Desktop\University\Database Systems\Website Traffic Analysis\dbfinalpid-7\DB Final lab project\DB Final lab project\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\mabd2\Desktop\University\Database Systems\Website Traffic Analysis\dbfinalpid-7\DB Final lab project\DB Final lab project\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\mabd2\Desktop\University\Database Systems\Website Traffic Analysis\dbfinalpid-7\DB Final lab project\DB Final lab project\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\mabd2\Desktop\University\Database Systems\Website Traffic Analysis\dbfinalpid-7\DB Final lab project\DB Final lab project\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\mabd2\Desktop\University\Database Systems\Website Traffic Analysis\dbfinalpid-7\DB Final lab project\DB Final lab project\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\mabd2\Desktop\University\Database Systems\Website Traffic Analysis\dbfinalpid-7\DB Final lab project\DB Final lab project\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\mabd2\Desktop\University\Database Systems\Website Traffic Analysis\dbfinalpid-7\DB Final lab project\DB Final lab project\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\mabd2\Desktop\University\Database Systems\Website Traffic Analysis\dbfinalpid-7\DB Final lab project\DB Final lab project\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\mabd2\Desktop\University\Database Systems\Website Traffic Analysis\dbfinalpid-7\DB Final lab project\DB Final lab project\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\mabd2\Desktop\University\Database Systems\Website Traffic Analysis\dbfinalpid-7\DB Final lab project\DB Final lab project\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\mabd2\Desktop\University\Database Systems\Website Traffic Analysis\dbfinalpid-7\DB Final lab project\DB Final lab project\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\mabd2\Desktop\University\Database Systems\Website Traffic Analysis\dbfinalpid-7\DB Final lab project\DB Final lab project\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\mabd2\Desktop\University\Database Systems\Website Traffic Analysis\dbfinalpid-7\DB Final lab project\DB Final lab project\bin\Debug\stdole.dll
+C:\Users\mabd2\Desktop\University\Database Systems\Website Traffic Analysis\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Referrer.DeleteReferrer.resources
+C:\Users\mabd2\Desktop\University\Database Systems\Website Traffic Analysis\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Referrer.EditReferrer.resources
+C:\Users\mabd2\Desktop\University\Database Systems\Website Traffic Analysis\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.User.MenuUser.resources
+C:\Users\mabd2\Desktop\University\Database Systems\Website Traffic Analysis\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB Final.325E2D1F.Up2Date
+E:\U n i v e r s i t y\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\LAB_FINALPROJECT\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB Final lab project.csproj.AssemblyReference.cache
+E:\U n i v e r s i t y\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\LAB_FINALPROJECT\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Events.Add_Event.resources
+E:\U n i v e r s i t y\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\LAB_FINALPROJECT\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Events.Delete_Event.resources
+E:\U n i v e r s i t y\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\LAB_FINALPROJECT\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Events.Event_Menu.resources
+E:\U n i v e r s i t y\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\LAB_FINALPROJECT\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Events.Show_Events.resources
+E:\U n i v e r s i t y\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\LAB_FINALPROJECT\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Events.Updaate_Event.resources
+E:\U n i v e r s i t y\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\LAB_FINALPROJECT\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Form1.resources
+E:\U n i v e r s i t y\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\LAB_FINALPROJECT\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Pages.PageAdd.resources
+E:\U n i v e r s i t y\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\LAB_FINALPROJECT\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Pages.PageDelete.resources
+E:\U n i v e r s i t y\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\LAB_FINALPROJECT\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Pages.PageEdit.resources
+E:\U n i v e r s i t y\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\LAB_FINALPROJECT\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Pages.PageMenu.resources
+E:\U n i v e r s i t y\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\LAB_FINALPROJECT\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Pages.PageView.resources
+E:\U n i v e r s i t y\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\LAB_FINALPROJECT\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Properties.Resources.resources
+E:\U n i v e r s i t y\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\LAB_FINALPROJECT\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Referrer.AddReferrer.resources
+E:\U n i v e r s i t y\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\LAB_FINALPROJECT\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Referrer.DeleteReferrer.resources
+E:\U n i v e r s i t y\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\LAB_FINALPROJECT\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Referrer.EditReferrer.resources
+E:\U n i v e r s i t y\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\LAB_FINALPROJECT\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Referrer.ReferrerMenu.resources
+E:\U n i v e r s i t y\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\LAB_FINALPROJECT\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Referrer.ViewReferrer.resources
+E:\U n i v e r s i t y\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\LAB_FINALPROJECT\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Section.Create_Section.resources
+E:\U n i v e r s i t y\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\LAB_FINALPROJECT\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Section.Delete_Section.resources
+E:\U n i v e r s i t y\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\LAB_FINALPROJECT\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Section.SectionMenu.resources
+E:\U n i v e r s i t y\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\LAB_FINALPROJECT\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Section.Show_Section.resources
+E:\U n i v e r s i t y\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\LAB_FINALPROJECT\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Section.Update_Section.resources
+E:\U n i v e r s i t y\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\LAB_FINALPROJECT\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Session.SessionDelete.resources
+E:\U n i v e r s i t y\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\LAB_FINALPROJECT\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Users.AddUser.resources
+E:\U n i v e r s i t y\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\LAB_FINALPROJECT\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Session.SessionAdd.resources
+E:\U n i v e r s i t y\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\LAB_FINALPROJECT\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Session.SessionEdit.resources
+E:\U n i v e r s i t y\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\LAB_FINALPROJECT\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Session.SessionMenu.resources
+E:\U n i v e r s i t y\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\LAB_FINALPROJECT\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Session.SessionView.resources
+E:\U n i v e r s i t y\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\LAB_FINALPROJECT\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.User.EditUser.resources
+E:\U n i v e r s i t y\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\LAB_FINALPROJECT\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.User.ShowUser.resources
+E:\U n i v e r s i t y\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\LAB_FINALPROJECT\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Website.AddWebsite.resources
+E:\U n i v e r s i t y\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\LAB_FINALPROJECT\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Website.DeleteWebsite.resources
+E:\U n i v e r s i t y\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\LAB_FINALPROJECT\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Website.EditWebsite.resources
+E:\U n i v e r s i t y\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\LAB_FINALPROJECT\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Website.ShowWebsites.resources
+E:\U n i v e r s i t y\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\LAB_FINALPROJECT\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Website.WebsiteMenu.resources
+E:\U n i v e r s i t y\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\LAB_FINALPROJECT\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB Final lab project.csproj.GenerateResource.cache
+E:\U n i v e r s i t y\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\LAB_FINALPROJECT\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB Final lab project.csproj.CoreCompileInputs.cache
+E:\U n i v e r s i t y\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\LAB_FINALPROJECT\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB Final lab project.exe
+E:\U n i v e r s i t y\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\LAB_FINALPROJECT\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB Final lab project.pdb
+E:\U n i v e r s i t y\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\LAB_FINALPROJECT\dbfinalpid-7\DB Final lab project\DB Final lab project\bin\Debug\DB Final lab project.exe.config
+E:\U n i v e r s i t y\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\LAB_FINALPROJECT\dbfinalpid-7\DB Final lab project\DB Final lab project\bin\Debug\DB Final lab project.exe
+E:\U n i v e r s i t y\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\LAB_FINALPROJECT\dbfinalpid-7\DB Final lab project\DB Final lab project\bin\Debug\DB Final lab project.pdb
+E:\U n i v e r s i t y\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\LAB_FINALPROJECT\dbfinalpid-7\DB Final lab project\DB Final lab project\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\U n i v e r s i t y\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\LAB_FINALPROJECT\dbfinalpid-7\DB Final lab project\DB Final lab project\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\U n i v e r s i t y\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\LAB_FINALPROJECT\dbfinalpid-7\DB Final lab project\DB Final lab project\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\U n i v e r s i t y\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\LAB_FINALPROJECT\dbfinalpid-7\DB Final lab project\DB Final lab project\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\U n i v e r s i t y\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\LAB_FINALPROJECT\dbfinalpid-7\DB Final lab project\DB Final lab project\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\U n i v e r s i t y\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\LAB_FINALPROJECT\dbfinalpid-7\DB Final lab project\DB Final lab project\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\U n i v e r s i t y\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\LAB_FINALPROJECT\dbfinalpid-7\DB Final lab project\DB Final lab project\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\U n i v e r s i t y\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\LAB_FINALPROJECT\dbfinalpid-7\DB Final lab project\DB Final lab project\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\U n i v e r s i t y\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\LAB_FINALPROJECT\dbfinalpid-7\DB Final lab project\DB Final lab project\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\U n i v e r s i t y\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\LAB_FINALPROJECT\dbfinalpid-7\DB Final lab project\DB Final lab project\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\U n i v e r s i t y\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\LAB_FINALPROJECT\dbfinalpid-7\DB Final lab project\DB Final lab project\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\U n i v e r s i t y\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\LAB_FINALPROJECT\dbfinalpid-7\DB Final lab project\DB Final lab project\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\U n i v e r s i t y\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\LAB_FINALPROJECT\dbfinalpid-7\DB Final lab project\DB Final lab project\bin\Debug\stdole.dll
+E:\U n i v e r s i t y\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\LAB_FINALPROJECT\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB Final.325E2D1F.Up2Date
+>>>>>>> 859a3d0ad035e15331b26687a89b5518de2ee44c
+E:\U n i v e r s i t y\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\LAB_FINALPROJECT\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.User.MenuUser.resources
+E:\U n i v e r s i t y\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\LAB_FINALPROJECT\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.User.DeleteUser.resources
+>>>>>>> ce2f653191d7a3a020e216116252112da1cb71c4
+E:\U n i v e r s i t y\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\LAB_FINALPROJECT\dbfinalpid-7\DB Final lab project\DB Final lab project\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\U n i v e r s i t y\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\LAB_FINALPROJECT\dbfinalpid-7\DB Final lab project\DB Final lab project\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\U n i v e r s i t y\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\LAB_FINALPROJECT\dbfinalpid-7\DB Final lab project\DB Final lab project\bin\Debug\CrystalDecisions.Shared.dll
+E:\U n i v e r s i t y\4TH - S E M E S T E R\D B\WEB TRAFFFIC ANALYSIS\LAB_FINALPROJECT\dbfinalpid-7\DB Final lab project\DB Final lab project\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\4th Semester\DB\Final Project\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.User.MenuUser.resources
+C:\Users\DELL\Desktop\Data Base\DB Lab Final Project\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.User.DeleteUser.resources
+C:\Users\DELL\Desktop\Data Base\DB Lab Final Project\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.User.MenuUser.resources
+C:\Users\DELL\Desktop\Data Base\DB Lab Final Project\DB Final lab project\DB Final lab project\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\4th Semester\DB\Final Project\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.User.DeleteUser.resources
+D:\4th Semester\DB\Final Project\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Reports.Report.resources
+D:\4th Semester\DB\Final Project\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Reports.ReportMenu.resources
+>>>>>>> ed98638e7fb8cca0db63a197bde36eb7b32a4cb8
+C:\Users\DELL\Desktop\Data Base\DB Lab Final Project\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Reports.Report.resources
+C:\Users\DELL\Desktop\Data Base\DB Lab Final Project\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Reports.ReportMenu.resources
+C:\Users\mabd2\Desktop\University\Database Systems\Website Traffic Analysis\dbfinalpid-7\DB Final lab project\DB Final lab project\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\mabd2\Desktop\University\Database Systems\Website Traffic Analysis\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Reports.Report.resources
+C:\Users\mabd2\Desktop\University\Database Systems\Website Traffic Analysis\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.Reports.ReportMenu.resources
+C:\Users\mabd2\Desktop\University\Database Systems\Website Traffic Analysis\dbfinalpid-7\DB Final lab project\DB Final lab project\obj\Debug\DB_Final_lab_project.User.DeleteUser.resources

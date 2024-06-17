@@ -1,0 +1,13 @@
+Q1
+select SUBSTRING(ProductName,1,1) as f,Count(*)  from Products group by SUBSTRING(ProductName,1,1)
+***
+
+
+Q2
+select  Month(Orders.OrderDate) as MonthName,sum([Order Details].Quantity*[Order Details].UnitPrice ) as Spending ,CompanyName As CustomerName from Customers join  Orders on Customers.CustomerID=Orders.CustomerID join [Order Details] on Orders.OrderID=[Order Details].OrderID where YEAR( Orders.OrderDate)='1997' group by CompanyName,Month(Orders.OrderDate);
+***
+
+
+Q3
+
+***

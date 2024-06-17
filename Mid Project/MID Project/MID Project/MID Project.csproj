@@ -1,0 +1,440 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{483EA60B-F6F0-40D9-982E-DAA227A4C85B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>MID_Project</RootNamespace>
+    <AssemblyName>MID Project</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.9.0, Culture=neutral, PublicKeyToken=0e99375e54769942">
+      <HintPath>..\packages\BouncyCastle.1.8.9\lib\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.13.3, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\iTextSharp.5.5.13.3\lib\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Assesment\Add_Assesment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Assesment\Add_Assesment.designer.cs">
+      <DependentUpon>Add_Assesment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Assesment\Assesmant_Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Assesment\Assesmant_Menu.Designer.cs">
+      <DependentUpon>Assesmant_Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Assesment\Assessment_Component.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Assesment\Assessment_Component.Designer.cs">
+      <DependentUpon>Assessment_Component.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Assesment\delete_Assessment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Assesment\delete_Assessment.Designer.cs">
+      <DependentUpon>delete_Assessment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Assesment\delete_Assessment_Component.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Assesment\delete_Assessment_Component.Designer.cs">
+      <DependentUpon>delete_Assessment_Component.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Assesment\Show_Assesment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Assesment\Show_Assesment.Designer.cs">
+      <DependentUpon>Show_Assesment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Assesment\Show_Assessment_Component.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Assesment\Show_Assessment_Component.Designer.cs">
+      <DependentUpon>Show_Assessment_Component.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Assesment\Update_Assessment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Assesment\Update_Assessment.Designer.cs">
+      <DependentUpon>Update_Assessment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Assesment\Update_Assessment_Component.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Assesment\Update_Assessment_Component.Designer.cs">
+      <DependentUpon>Update_Assessment_Component.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Assessment_Report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Assessment_Report.Designer.cs">
+      <DependentUpon>Assessment_Report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Attendance_Report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Attendance_Report.Designer.cs">
+      <DependentUpon>Attendance_Report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CLOS\Show_Clos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CLOS\Show_Clos.Designer.cs">
+      <DependentUpon>Show_Clos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CLO_Report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CLO_Report.Designer.cs">
+      <DependentUpon>CLO_Report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports.Designer.cs">
+      <DependentUpon>Reports.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Result\AddStudent_Result.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Result\AddStudent_Result.Designer.cs">
+      <DependentUpon>AddStudent_Result.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Result\Result_Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Result\Result_Menu.Designer.cs">
+      <DependentUpon>Result_Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Result\Show_Result.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Result\Show_Result.Designer.cs">
+      <DependentUpon>Show_Result.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rubric Level Report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rubric Level Report.Designer.cs">
+      <DependentUpon>Rubric Level Report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rubric Level\delete_Rubric_Level.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rubric Level\delete_Rubric_Level.Designer.cs">
+      <DependentUpon>delete_Rubric_Level.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rubric Level\Show_RubricLevel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rubric Level\Show_RubricLevel.Designer.cs">
+      <DependentUpon>Show_RubricLevel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rubric\Delete_Rubric.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rubric\Delete_Rubric.Designer.cs">
+      <DependentUpon>Delete_Rubric.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rubric\Show_Rubric.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rubric\Show_Rubric.Designer.cs">
+      <DependentUpon>Show_Rubric.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rubric\Update_Rubric.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rubric\Update_Rubric.Designer.cs">
+      <DependentUpon>Update_Rubric.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student\ADD Student.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student\ADD Student.Designer.cs">
+      <DependentUpon>ADD Student.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rubric\AddRubric.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rubric\AddRubric.Designer.cs">
+      <DependentUpon>AddRubric.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student\AttendanceOfStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student\AttendanceOfStudent.Designer.cs">
+      <DependentUpon>AttendanceOfStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CLOS\CLo Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CLOS\CLo Menu.Designer.cs">
+      <DependentUpon>CLo Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CLOS\CloAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CLOS\CloAdd.Designer.cs">
+      <DependentUpon>CloAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Configuration.cs" />
+    <Compile Include="CLOS\Delete_Clo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CLOS\Delete_Clo.Designer.cs">
+      <DependentUpon>Delete_Clo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Rubric Level\RubricLevel_Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rubric Level\RubricLevel_Menu.Designer.cs">
+      <DependentUpon>RubricLevel_Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rubric Level\RubricLevel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rubric Level\RubricLevel.Designer.cs">
+      <DependentUpon>RubricLevel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rubric\RubricMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rubric\RubricMenu.Designer.cs">
+      <DependentUpon>RubricMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student\Delete_Student.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student\Delete_Student.Designer.cs">
+      <DependentUpon>Delete_Student.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student\ShowStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student\ShowStudent.Designer.cs">
+      <DependentUpon>ShowStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student\Show_Attendance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student\Show_Attendance.Designer.cs">
+      <DependentUpon>Show_Attendance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student\StudentMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student\StudentMenu.Designer.cs">
+      <DependentUpon>StudentMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student\Update Student.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student\Update Student.Designer.cs">
+      <DependentUpon>Update Student.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CLOS\Update_Clo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CLOS\Update_Clo.Designer.cs">
+      <DependentUpon>Update_Clo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student_Report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student_Report.Designer.cs">
+      <DependentUpon>Student_Report.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Assesment\Add_Assesment.resx">
+      <DependentUpon>Add_Assesment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Assesment\Assesmant_Menu.resx">
+      <DependentUpon>Assesmant_Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Assesment\Assessment_Component.resx">
+      <DependentUpon>Assessment_Component.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Assesment\delete_Assessment.resx">
+      <DependentUpon>delete_Assessment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Assesment\delete_Assessment_Component.resx">
+      <DependentUpon>delete_Assessment_Component.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Assesment\Show_Assesment.resx">
+      <DependentUpon>Show_Assesment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Assesment\Show_Assessment_Component.resx">
+      <DependentUpon>Show_Assessment_Component.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Assesment\Update_Assessment.resx">
+      <DependentUpon>Update_Assessment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Assesment\Update_Assessment_Component.resx">
+      <DependentUpon>Update_Assessment_Component.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Assessment_Report.resx">
+      <DependentUpon>Assessment_Report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CLOS\Show_Clos.resx">
+      <DependentUpon>Show_Clos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CLO_Report.resx">
+      <DependentUpon>CLO_Report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports.resx">
+      <DependentUpon>Reports.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Result\AddStudent_Result.resx">
+      <DependentUpon>AddStudent_Result.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Result\Result_Menu.resx">
+      <DependentUpon>Result_Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Result\Show_Result.resx">
+      <DependentUpon>Show_Result.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rubric Level Report.resx">
+      <DependentUpon>Rubric Level Report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rubric Level\delete_Rubric_Level.resx">
+      <DependentUpon>delete_Rubric_Level.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rubric Level\Show_RubricLevel.resx">
+      <DependentUpon>Show_RubricLevel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rubric\Delete_Rubric.resx">
+      <DependentUpon>Delete_Rubric.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rubric\Show_Rubric.resx">
+      <DependentUpon>Show_Rubric.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rubric\Update_Rubric.resx">
+      <DependentUpon>Update_Rubric.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student\ADD Student.resx">
+      <DependentUpon>ADD Student.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rubric\AddRubric.resx">
+      <DependentUpon>AddRubric.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student\AttendanceOfStudent.resx">
+      <DependentUpon>AttendanceOfStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CLOS\CLo Menu.resx">
+      <DependentUpon>CLo Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CLOS\CloAdd.resx">
+      <DependentUpon>CloAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CLOS\Delete_Clo.resx">
+      <DependentUpon>Delete_Clo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Rubric Level\RubricLevel_Menu.resx">
+      <DependentUpon>RubricLevel_Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rubric Level\RubricLevel.resx">
+      <DependentUpon>RubricLevel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rubric\RubricMenu.resx">
+      <DependentUpon>RubricMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student\Delete_Student.resx">
+      <DependentUpon>Delete_Student.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student\ShowStudent.resx">
+      <DependentUpon>ShowStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student\Show_Attendance.resx">
+      <DependentUpon>Show_Attendance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student\StudentMenu.resx">
+      <DependentUpon>StudentMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student\Update Student.resx">
+      <DependentUpon>Update Student.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CLOS\Update_Clo.resx">
+      <DependentUpon>Update_Clo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student_Report.resx">
+      <DependentUpon>Student_Report.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

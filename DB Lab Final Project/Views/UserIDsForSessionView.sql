@@ -1,0 +1,3 @@
+CREATE VIEW UserIDsForSessionAddView AS
+SELECT UserID
+FROM Users;
